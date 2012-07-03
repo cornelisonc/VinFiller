@@ -1,8 +1,8 @@
 {
-	"name": "My First Extension",
+	"name": "VinFiller",
 	"version": "1.0",
 	"manifest_version": 2,
-	"description": "The first extension that I made.",
+	"description": "Insert a random, unique, valid VIN",
 	"browser_action": {
 		"name": "VinFiller",
 		"default_icon": "icon.png",
